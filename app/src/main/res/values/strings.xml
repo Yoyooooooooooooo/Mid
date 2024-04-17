@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Mid</string>
+    <!-- ... 其他字符串资源 ... -->
+    <string name="dialog_title">您點的餐點有:</string>
+    <string name="app_name">您的應用名稱</string>
+    <string name="confirm">確認</string>
+    <string name="exit">離開</string>
+    <!-- 餐點数组字符串资源 -->
+    <string-array name="meal_items">
+        <item>香蕉巧克力鬆餅</item>
+        <item>冰淇淋鬆餅</item>
+        <item>巧克力卡士達</item>
+        <item>葡萄奶酥鬆餅</item>
+        <item>蜂蜜鬆餅</item>
+        <!-- 添加更多餐點 -->
+    </string-array>
 </resources>
